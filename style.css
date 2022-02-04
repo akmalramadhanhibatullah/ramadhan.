@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  font-family: courier;
+  color: #001612;
+}
+
+div {
+  text-align: center;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #7cd1b8;
+}
+
+table {
+  color: #ffffff;
+}
+
+p {
+  font-family: "Courier ms";
+  color: #ffffff;
+}
